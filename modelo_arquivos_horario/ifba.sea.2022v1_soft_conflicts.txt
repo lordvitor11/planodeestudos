@@ -1,0 +1,14 @@
+﻿Conflitos leves de ifba.sea.2022v1.fet
+Gerado com FET 5.42.2 em 11/04/2022 14:04
+
+Número de restrições leves quebradas: 4
+Total de conflitos leves: 3.89
+
+Conflitos leves em ordem decrescente:
+
+Restrição de tempo máx 8 horas diárias quebradas para docente Eider Silva, dia Terça-feira, período(s)=9.  Isso aumenta em 0.98 o total de conflitos
+Restrição de tempo máx 8 horas diárias quebradas para docente Jeovângela Matos, dia Quinta-feira, período(s)=9.  Isso aumenta em 0.98 o total de conflitos
+Restrição de tempo máx 8 horas diárias quebradas para docente Jeovângela Matos, dia Sexta-feira, período(s)=9.  Isso aumenta em 0.98 o total de conflitos
+Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=146 (Prof:Adriano Cattai, Disc:MATEMÁTICA III, MA:AULA, T:3º M.AMB_T(.3.28.1V) sala-08) conflita com a atividade com id=145 (Prof:Adriano Cattai, Disc:MATEMÁTICA III, MA:AULA, T:3º M.AMB_T(.3.28.1V) sala-08), sendo 1 dia(s) muito próximo(s), nos dias Segunda-feira e Segunda-feira, incremento no fator de conflitos=0.95.
+
+Final do arquivo.

@@ -1,0 +1,4855 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="1º INFOR_M21(.1.18.2M) sala-03 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Mateus Oliveira"></Teacher>
+     <Subject name="MATEMÁTICA I"></Subject>
+     <Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Joyce Helly"></Teacher><Subject name="DESENHO TÉCNICO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Alice Leal"></Teacher><Subject name="ALGORITMOS"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Alice Leal"></Teacher><Subject name="ALGORITMOS"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="FILOSOFIA - I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Joyce Helly"></Teacher><Subject name="DESENHO TÉCNICO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Alan Santos"></Teacher><Subject name="FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Luanna Cruz"></Teacher><Subject name="INTRODUÇÃO Á INFORMÁTICA"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Luanna Cruz"></Teacher><Subject name="INTRODUÇÃO Á INFORMÁTICA"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Luiz Gustavo"></Teacher><Subject name="HISTÓRIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Luiz Gustavo"></Teacher><Subject name="HISTÓRIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Prof. ARTES"></Teacher><Subject name="ARTES"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Alan Santos"></Teacher><Subject name="FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Alan Santos"></Teacher><Subject name="FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Jaiana  Meneses"></Teacher><Subject name="SOCIOLOGIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Marcella Leite"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Marcella Leite"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Lucielton  Mascarenhas"></Teacher><Subject name="EDUCAÇÃO FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Lucielton  Mascarenhas"></Teacher><Subject name="EDUCAÇÃO FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Prof. ARTES"></Teacher><Subject name="ARTES"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Carlos Eduardo"></Teacher><Subject name="QUIMICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Carlos Eduardo"></Teacher><Subject name="QUIMICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Marcella Leite"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Marcella Leite"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1º INFOR_T(.1.18.1V) sala-04 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Alice Leal"></Teacher><Subject name="ALGORITMOS"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Alice Leal"></Teacher><Subject name="ALGORITMOS"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Alan Santos"></Teacher><Subject name="FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Joyce Helly"></Teacher><Subject name="DESENHO TÉCNICO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="FILOSOFIA - I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Maria do Carmo"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Maria do Carmo"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Joyce Helly"></Teacher><Subject name="DESENHO TÉCNICO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Alan Santos"></Teacher><Subject name="FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Alan Santos"></Teacher><Subject name="FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Prof. ARTES"></Teacher><Subject name="ARTES"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Maria do Carmo"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Maria do Carmo"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Luiz Gustavo"></Teacher><Subject name="HISTÓRIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Luiz Gustavo"></Teacher><Subject name="HISTÓRIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Jaiana  Meneses"></Teacher><Subject name="SOCIOLOGIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Lucielton  Mascarenhas"></Teacher><Subject name="EDUCAÇÃO FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Lucielton  Mascarenhas"></Teacher><Subject name="EDUCAÇÃO FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Luanna Cruz"></Teacher><Subject name="INTRODUÇÃO Á INFORMÁTICA"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Luanna Cruz"></Teacher><Subject name="INTRODUÇÃO Á INFORMÁTICA"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Carlos Eduardo"></Teacher><Subject name="QUIMICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Carlos Eduardo"></Teacher><Subject name="QUIMICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Prof. ARTES"></Teacher><Subject name="ARTES"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1º INFOR_M22(.1.18.1M) sala-05 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Jonathan Souza"></Teacher><Subject name="FÍSICA I"></Subject>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Jonathan Souza"></Teacher><Subject name="FÍSICA I"></Subject>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Alice Leal"></Teacher><Subject name="ALGORITMOS"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Alice Leal"></Teacher><Subject name="ALGORITMOS"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Joyce Helly"></Teacher><Subject name="DESENHO TÉCNICO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Joyce Helly"></Teacher><Subject name="DESENHO TÉCNICO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Lucielton  Mascarenhas"></Teacher><Subject name="EDUCAÇÃO FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Lucielton  Mascarenhas"></Teacher><Subject name="EDUCAÇÃO FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Carlos Eduardo"></Teacher><Subject name="QUIMICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Carlos Eduardo"></Teacher><Subject name="QUIMICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="FILOSOFIA - I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Prof. ARTES"></Teacher><Subject name="ARTES"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Jonathan Souza"></Teacher><Subject name="FÍSICA I"></Subject>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Jaiana  Meneses"></Teacher><Subject name="SOCIOLOGIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Luiz Gustavo"></Teacher><Subject name="HISTÓRIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Luiz Gustavo"></Teacher><Subject name="HISTÓRIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Marcella Leite"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Marcella Leite"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Marcella Leite"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Marcella Leite"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Prof. ARTES"></Teacher><Subject name="ARTES"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Luanna Cruz"></Teacher><Subject name="INTRODUÇÃO Á INFORMÁTICA"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Luanna Cruz"></Teacher><Subject name="INTRODUÇÃO Á INFORMÁTICA"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="2º INFOR_M(.2.18.1M) sala-11 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Alan Santos"></Teacher><Subject name="FÍSICA - II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Alan Santos"></Teacher><Subject name="FÍSICA - II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Charles Albuquerque"></Teacher><Subject name="DESENVOLVIMENTO WEB"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Charles Albuquerque"></Teacher><Subject name="DESENVOLVIMENTO WEB"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="MATEMÁTICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="MATEMÁTICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="EDUCAÇÃO FÍSICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="EDUCAÇÃO FÍSICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="LINGUA PORTUGUESA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="LINGUA PORTUGUESA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Alan Santos"></Teacher><Subject name="FÍSICA - II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="BIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="BIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="FILOSOFIA - II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="FILOSOFIA - II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Diego Sousa"></Teacher><Subject name="GEOGRAFIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Diego Sousa"></Teacher><Subject name="GEOGRAFIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="QUIMICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="QUIMICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="MATEMÁTICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Rui Carigê"></Teacher><Subject name="LINGUAGEM DE PROGRAMAÇÃO I"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Rui Carigê"></Teacher><Subject name="LINGUAGEM DE PROGRAMAÇÃO I"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="LINGUA PORTUGUESA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="LINGUA PORTUGUESA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Claudia Santos"></Teacher><Subject name="INGLÊS II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Claudia Santos"></Teacher><Subject name="INGLÊS II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Luiz Gustavo"></Teacher><Subject name="HISTÓRIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Luiz Gustavo"></Teacher><Subject name="HISTÓRIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Benedito Barbosa"></Teacher><Subject name="ARQUITETURA, MONTAGEM E MANUTENÇÃO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Benedito Barbosa"></Teacher><Subject name="ARQUITETURA, MONTAGEM E MANUTENÇÃO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="2º INFOR_T(.2.18.1V) sala-09 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="FILOSOFIA - II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="EDUCAÇÃO FÍSICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="EDUCAÇÃO FÍSICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="FILOSOFIA - II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="LINGUA PORTUGUESA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="LINGUA PORTUGUESA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Charles Albuquerque"></Teacher><Subject name="DESENVOLVIMENTO WEB"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Charles Albuquerque"></Teacher><Subject name="DESENVOLVIMENTO WEB"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Alan Santos"></Teacher><Subject name="FÍSICA - II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Alan Santos"></Teacher><Subject name="FÍSICA - II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Alan Santos"></Teacher><Subject name="FÍSICA - II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="LINGUA PORTUGUESA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="LINGUA PORTUGUESA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Claudia Santos"></Teacher><Subject name="INGLÊS II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Claudia Santos"></Teacher><Subject name="INGLÊS II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Everton Silva"></Teacher><Subject name="MATEMÁTICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Diego Sousa"></Teacher><Subject name="GEOGRAFIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Diego Sousa"></Teacher><Subject name="GEOGRAFIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="HISTÓRIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="HISTÓRIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Everton Silva"></Teacher><Subject name="MATEMÁTICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Everton Silva"></Teacher><Subject name="MATEMÁTICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Rui Carigê"></Teacher><Subject name="LINGUAGEM DE PROGRAMAÇÃO I"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Rui Carigê"></Teacher><Subject name="LINGUAGEM DE PROGRAMAÇÃO I"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Benedito Barbosa"></Teacher><Subject name="ARQUITETURA, MONTAGEM E MANUTENÇÃO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Benedito Barbosa"></Teacher><Subject name="ARQUITETURA, MONTAGEM E MANUTENÇÃO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="BIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="BIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="QUIMICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="QUIMICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3º INFOR_M(.3.18.1M) sala-01 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Azamor Guedes"></Teacher><Subject name="FILOSOFIA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Azamor Guedes"></Teacher><Subject name="FILOSOFIA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="REDAÇÃO TÉCNICA E CIENTÍFICA"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="REDAÇÃO TÉCNICA E CIENTÍFICA"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="EDUCAÇÃO FÍSICA III"></Subject><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Charles Albuquerque"></Teacher><Subject name="LINGUAGEM DE PROGRAMAÇÃO II"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Charles Albuquerque"></Teacher><Subject name="LINGUAGEM DE PROGRAMAÇÃO II"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="FÍSICA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="FÍSICA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Eider Silva"></Teacher><Subject name="EDUCAÇÃO AMBIENTAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Alice Leal"></Teacher><Subject name="BANCO DE DADOS"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Alice Leal"></Teacher><Subject name="BANCO DE DADOS"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="LINGUA PORTUGUESA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="LINGUA PORTUGUESA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="EDUCAÇÃO FÍSICA III"></Subject><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="BIOLOGIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="BIOLOGIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="HISTÓRIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="HISTÓRIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="FÍSICA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Luanna Cruz"></Teacher><Subject name="REDES DE COMPUTADORES"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Luanna Cruz"></Teacher><Subject name="REDES DE COMPUTADORES"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="GEOGRAFIA III"></Subject>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="GEOGRAFIA III"></Subject>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="QUIMICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="QUIMICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3º INFOR_T(.3.18.1V) sala-02 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Adriano Cattai"></Teacher><Subject name="MATEMÁTICA III"></Subject>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Alice Leal"></Teacher><Subject name="BANCO DE DADOS"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Alice Leal"></Teacher><Subject name="BANCO DE DADOS"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="LINGUA PORTUGUESA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="LINGUA PORTUGUESA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Adriano Cattai"></Teacher><Subject name="MATEMÁTICA III"></Subject>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Adriano Cattai"></Teacher><Subject name="MATEMÁTICA III"></Subject>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Azamor Guedes"></Teacher><Subject name="FILOSOFIA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Azamor Guedes"></Teacher><Subject name="FILOSOFIA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="EDUCAÇÃO FÍSICA III"></Subject><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="EDUCAÇÃO FÍSICA III"></Subject><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="FÍSICA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Charles Albuquerque"></Teacher><Subject name="LINGUAGEM DE PROGRAMAÇÃO II"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Charles Albuquerque"></Teacher><Subject name="LINGUAGEM DE PROGRAMAÇÃO II"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Eider Silva"></Teacher><Subject name="EDUCAÇÃO AMBIENTAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Maria do Carmo"></Teacher><Subject name="REDAÇÃO TÉCNICA E CIENTÍFICA"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Maria do Carmo"></Teacher><Subject name="REDAÇÃO TÉCNICA E CIENTÍFICA"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="QUIMICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="QUIMICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="FÍSICA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="FÍSICA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="BIOLOGIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="BIOLOGIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="HISTÓRIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="HISTÓRIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="GEOGRAFIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="GEOGRAFIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Luanna Cruz"></Teacher><Subject name="REDES DE COMPUTADORES"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Luanna Cruz"></Teacher><Subject name="REDES DE COMPUTADORES"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="4º INFOR_M(.4.18.1M) sala-A03 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Charles Albuquerque"></Teacher><Subject name="PROJETO PRÁTICO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Charles Albuquerque"></Teacher><Subject name="PROJETO PRÁTICO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Azamor Guedes"></Teacher><Subject name="FILOSOFIA - IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="BIOLOGIA IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="BIOLOGIA IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Claudia Santos"></Teacher><Subject name="INGLÊS IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Claudia Santos"></Teacher><Subject name="INGLÊS IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Eider Silva"></Teacher><Subject name="SEGURANÇA DO TRAB. MEIO AMBIENTE E SAÚDE"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Eider Silva"></Teacher><Subject name="SEGURANÇA DO TRAB. MEIO AMBIENTE E SAÚDE"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Jaiana  Meneses"></Teacher><Subject name="SOCIOLOGIA IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Rui Carigê"></Teacher><Subject name="FUNDAENTOS DE ENG. DE SOFTWARE"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Rui Carigê"></Teacher><Subject name="FUNDAENTOS DE ENG. DE SOFTWARE"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="GEOGRAFIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="GEOGRAFIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Rui Carigê"></Teacher><Subject name="PROJ. DE SIST. COM BANCO DE DADOS"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Michele Barbosa"></Teacher><Subject name="ESPANHOL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Michele Barbosa"></Teacher><Subject name="ESPANHOL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Benedito Barbosa"></Teacher><Subject name="SISTEMAS OPERACIONAIS"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Benedito Barbosa"></Teacher><Subject name="SISTEMAS OPERACIONAIS"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Lucas Souza"></Teacher><Subject name="ONQ E EMPREENDEDORISMO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Lucas Souza"></Teacher><Subject name="ONQ E EMPREENDEDORISMO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="ALVARO(.2.18.1M) AEE Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Claudia Santos"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Charles Albuquerque"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Alan Santos"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Rui Carigê"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Benedito Barbosa"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Luiz Gustavo"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="RUAN(.2.18.1V)-AEE Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Jéssica Lacerda"></Teacher><Subject name="LIBRAS"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Jéssica Lacerda"></Teacher><Subject name="LIBRAS"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="Português (Segunda Língua)"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="Português (Segunda Língua)"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Alan Santos"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="Português (Segunda Língua)"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="Português (Segunda Língua)"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Rui Carigê"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Diego Sousa"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Everton Silva"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="DIEGO(.3.18.1M)  - AEE Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Charles Albuquerque"></Teacher><Subject name="LINGUAGEM DE PROGRAMAÇÃO II"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Charles Albuquerque"></Teacher><Subject name="LINGUAGEM DE PROGRAMAÇÃO II"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Eider Silva"></Teacher><Subject name="EDUCAÇÃO AMBIENTAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Eider Silva"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Charles Albuquerque"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="LINGUA PORTUGUESA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="LINGUA PORTUGUESA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="EDUCAÇÃO FÍSICA III"></Subject><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="BIOLOGIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="BIOLOGIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Luanna Cruz"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Luanna Cruz"></Teacher><Subject name="REDES DE COMPUTADORES"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Luanna Cruz"></Teacher><Subject name="REDES DE COMPUTADORES"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="GEOGRAFIA III"></Subject>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="GEOGRAFIA III"></Subject>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="QUIMICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="QUIMICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="DAVID(.3.18.1M) - AEE Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Azamor Guedes"></Teacher><Subject name="FILOSOFIA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Azamor Guedes"></Teacher><Subject name="FILOSOFIA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="REDAÇÃO TÉCNICA E CIENTÍFICA"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="REDAÇÃO TÉCNICA E CIENTÍFICA"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Eider Silva"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="FÍSICA - III"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="FÍSICA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="FÍSICA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Eider Silva"></Teacher><Subject name="EDUCAÇÃO AMBIENTAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Alice Leal"></Teacher><Subject name="BANCO DE DADOS"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Alice Leal"></Teacher><Subject name="BANCO DE DADOS"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Alice Leal"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA III"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Mateus Oliveira"></Teacher><Subject name="MATEMÁTICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Azamor Guedes"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Luanna Cruz"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="HISTÓRIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="HISTÓRIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="FÍSICA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Luanna Cruz"></Teacher><Subject name="REDES DE COMPUTADORES"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Luanna Cruz"></Teacher><Subject name="REDES DE COMPUTADORES"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 2"></Room>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="LUAN SOUSA(2022M) - AEE Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1º M.AMB_M(.1.28.1M) sala-06 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Joyce Helly"></Teacher><Subject name="DESENHO TÉCNICO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Joyce Helly"></Teacher><Subject name="DESENHO TÉCNICO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Tatielle Rodrigues"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Tatielle Rodrigues"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="FILOSOFIA - I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Tatielle Rodrigues"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Tatielle Rodrigues"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Jonathan Souza"></Teacher><Subject name="FÍSICA I"></Subject>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Luiz Gustavo"></Teacher><Subject name="HISTÓRIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Luiz Gustavo"></Teacher><Subject name="HISTÓRIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="ECOLOGIA GERAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="ECOLOGIA GERAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Carlos Eduardo"></Teacher><Subject name="QUIMICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Carlos Eduardo"></Teacher><Subject name="QUIMICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Jonathan Souza"></Teacher><Subject name="FÍSICA I"></Subject>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Jonathan Souza"></Teacher><Subject name="FÍSICA I"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Lucielton  Mascarenhas"></Teacher><Subject name="EDUCAÇÃO FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Lucielton  Mascarenhas"></Teacher><Subject name="EDUCAÇÃO FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Jaiana  Meneses"></Teacher><Subject name="SOCIOLOGIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Diego Sousa"></Teacher><Subject name="GEOLOGIA GERAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Diego Sousa"></Teacher><Subject name="GEOLOGIA GERAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Rui Carigê"></Teacher><Subject name="INTRODUÇÃO Á INFORMÁTICA"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Rui Carigê"></Teacher><Subject name="INTRODUÇÃO Á INFORMÁTICA"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Prof. ARTES"></Teacher><Subject name="ARTES"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Prof. ARTES"></Teacher><Subject name="ARTES"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1º M.AMB_T(.1.28.1V) sala-10 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Jonathan Souza"></Teacher><Subject name="FÍSICA I"></Subject>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Tatielle Rodrigues"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Tatielle Rodrigues"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Joyce Helly"></Teacher><Subject name="DESENHO TÉCNICO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Joyce Helly"></Teacher><Subject name="DESENHO TÉCNICO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Tatielle Rodrigues"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Tatielle Rodrigues"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Lucielton  Mascarenhas"></Teacher><Subject name="EDUCAÇÃO FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="FILOSOFIA - I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Jonathan Souza"></Teacher><Subject name="FÍSICA I"></Subject>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Jonathan Souza"></Teacher><Subject name="FÍSICA I"></Subject>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="ECOLOGIA GERAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="ECOLOGIA GERAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Lucielton  Mascarenhas"></Teacher><Subject name="EDUCAÇÃO FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Carlos Eduardo"></Teacher><Subject name="QUIMICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Carlos Eduardo"></Teacher><Subject name="QUIMICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Jaiana  Meneses"></Teacher><Subject name="SOCIOLOGIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Diego Sousa"></Teacher><Subject name="GEOLOGIA GERAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Diego Sousa"></Teacher><Subject name="GEOLOGIA GERAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Luiz Gustavo"></Teacher><Subject name="HISTÓRIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Benedito Barbosa"></Teacher><Subject name="INTRODUÇÃO Á INFORMÁTICA"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Benedito Barbosa"></Teacher><Subject name="INTRODUÇÃO Á INFORMÁTICA"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Prof. ARTES"></Teacher><Subject name="ARTES"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Prof. ARTES"></Teacher><Subject name="ARTES"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Luiz Gustavo"></Teacher><Subject name="HISTÓRIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="1º M.AMB_T22(.1.28.2V) sala-07 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Alan Santos"></Teacher><Subject name="FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Maria do Carmo"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Maria do Carmo"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="ECOLOGIA GERAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="ECOLOGIA GERAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="FILOSOFIA - I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Joyce Helly"></Teacher><Subject name="DESENHO TÉCNICO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Joyce Helly"></Teacher><Subject name="DESENHO TÉCNICO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Lucielton  Mascarenhas"></Teacher><Subject name="EDUCAÇÃO FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Lucielton  Mascarenhas"></Teacher><Subject name="EDUCAÇÃO FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Alan Santos"></Teacher><Subject name="FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Alan Santos"></Teacher><Subject name="FÍSICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Benedito Barbosa"></Teacher><Subject name="INTRODUÇÃO Á INFORMÁTICA"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Benedito Barbosa"></Teacher><Subject name="INTRODUÇÃO Á INFORMÁTICA"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Lab 1"></Room>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Prof. ARTES"></Teacher><Subject name="ARTES"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Prof. ARTES"></Teacher><Subject name="ARTES"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Jaiana  Meneses"></Teacher><Subject name="SOCIOLOGIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Diego Sousa"></Teacher><Subject name="GEOLOGIA GERAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Diego Sousa"></Teacher><Subject name="GEOLOGIA GERAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Maria do Carmo"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Maria do Carmo"></Teacher><Subject name="LINGUA PORTUGUESA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Carlos Eduardo"></Teacher><Subject name="QUIMICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Carlos Eduardo"></Teacher><Subject name="QUIMICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="MATEMÁTICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Luiz Gustavo"></Teacher><Subject name="HISTÓRIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Luiz Gustavo"></Teacher><Subject name="HISTÓRIA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="2º M.AMB_M(.2.28.1M) sala-12 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Eider Silva"></Teacher><Subject name="QUIMICA AMBIENTAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Eider Silva"></Teacher><Subject name="QUIMICA AMBIENTAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="FILOSOFIA - II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Marcelo Texeira"></Teacher><Subject name="HIDROLOGIA GERAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Marcelo Texeira"></Teacher><Subject name="HIDROLOGIA GERAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="LINGUA PORTUGUESA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="LINGUA PORTUGUESA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="BIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="BIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Jonathan Souza"></Teacher><Subject name="FÍSICA I"></Subject>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Claudia Santos"></Teacher><Subject name="INGLÊS II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Jonathan Souza"></Teacher><Subject name="FÍSICA I"></Subject>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Jonathan Souza"></Teacher><Subject name="FÍSICA I"></Subject>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="FILOSOFIA - II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="HISTÓRIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="HISTÓRIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Lucielton  Mascarenhas"></Teacher><Subject name="EDUCAÇÃO FÍSICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Lucielton  Mascarenhas"></Teacher><Subject name="EDUCAÇÃO FÍSICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Everton Silva"></Teacher><Subject name="MATEMÁTICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Claudia Santos"></Teacher><Subject name="INGLÊS II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Everton Silva"></Teacher><Subject name="MATEMÁTICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Everton Silva"></Teacher><Subject name="MATEMÁTICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="LINGUA PORTUGUESA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="LINGUA PORTUGUESA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="QUIMICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="QUIMICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Diego Sousa"></Teacher><Subject name="GEOGRAFIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Diego Sousa"></Teacher><Subject name="GEOGRAFIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="2º M.AMB_T(.2.28.1V) sala-A01 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="BIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="BIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="EDUCAÇÃO FÍSICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="EDUCAÇÃO FÍSICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="FILOSOFIA - II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="FILOSOFIA - II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Eider Silva"></Teacher><Subject name="QUIMICA AMBIENTAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Eider Silva"></Teacher><Subject name="QUIMICA AMBIENTAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Jonathan Souza"></Teacher><Subject name="FÍSICA I"></Subject>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Jonathan Souza"></Teacher><Subject name="FÍSICA I"></Subject>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Everton Silva"></Teacher><Subject name="MATEMÁTICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Everton Silva"></Teacher><Subject name="MATEMÁTICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Jonathan Souza"></Teacher><Subject name="FÍSICA I"></Subject>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="LINGUA PORTUGUESA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Renata Silva"></Teacher><Subject name="LINGUA PORTUGUESA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="LINGUA PORTUGUESA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="LINGUA PORTUGUESA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Claudia Santos"></Teacher><Subject name="INGLÊS II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Claudia Santos"></Teacher><Subject name="INGLÊS II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="QUIMICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="QUIMICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Marcelo Texeira"></Teacher><Subject name="HIDROLOGIA GERAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Marcelo Texeira"></Teacher><Subject name="HIDROLOGIA GERAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Everton Silva"></Teacher><Subject name="MATEMÁTICA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Diego Sousa"></Teacher><Subject name="GEOGRAFIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Diego Sousa"></Teacher><Subject name="GEOGRAFIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="HISTÓRIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="HISTÓRIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3º M.AMB_M(.3.28.1M) sala-A02 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Laurine Carvalho"></Teacher><Subject name="SANEAMENTO AMBIENTAL E SAÚDE PÚBLICA"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Laurine Carvalho"></Teacher><Subject name="SANEAMENTO AMBIENTAL E SAÚDE PÚBLICA"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="BIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="BIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Adriano Cattai"></Teacher><Subject name="MATEMÁTICA III"></Subject>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Azamor Guedes"></Teacher><Subject name="FILOSOFIA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Azamor Guedes"></Teacher><Subject name="FILOSOFIA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Adriano Cattai"></Teacher><Subject name="MATEMÁTICA III"></Subject>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Adriano Cattai"></Teacher><Subject name="MATEMÁTICA III"></Subject>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="EDUCAÇÃO FÍSICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="EDUCAÇÃO FÍSICA III"></Subject><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="LINGUA PORTUGUESA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="LINGUA PORTUGUESA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="FÍSICA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="FÍSICA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Carlos Eduardo"></Teacher><Subject name="QUIMICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Carlos Eduardo"></Teacher><Subject name="QUIMICA I"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="FÍSICA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Marcelo Texeira"></Teacher><Subject name="SOLOS E MEIO AMBIENTE"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Marcelo Texeira"></Teacher><Subject name="SOLOS E MEIO AMBIENTE"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Lucio Aderito"></Teacher><Subject name="IMPACTOS E MONIT. AMBIENTAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Lucio Aderito"></Teacher><Subject name="IMPACTOS E MONIT. AMBIENTAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="GEOGRAFIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="GEOGRAFIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Laurine Carvalho"></Teacher><Subject name="GESTÃO E LEGISLAÇÃO AMBIENTAL III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Laurine Carvalho"></Teacher><Subject name="GESTÃO E LEGISLAÇÃO AMBIENTAL III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="HISTÓRIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="HISTÓRIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3º M.AMB_T(.3.28.1V) sala-08 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="EDUCAÇÃO FÍSICA III"></Subject><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="EDUCAÇÃO FÍSICA III"></Subject><Room name="Ginásio"></Room>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Adriano Cattai"></Teacher><Subject name="MATEMÁTICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Adriano Cattai"></Teacher><Subject name="MATEMÁTICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Adriano Cattai"></Teacher><Subject name="MATEMÁTICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Laurine Carvalho"></Teacher><Subject name="SANEAMENTO AMBIENTAL E SAÚDE PÚBLICA"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Laurine Carvalho"></Teacher><Subject name="SANEAMENTO AMBIENTAL E SAÚDE PÚBLICA"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="BIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="BIOLOGIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Azamor Guedes"></Teacher><Subject name="FILOSOFIA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="LINGUA PORTUGUESA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Deisiane Oliveira"></Teacher><Subject name="LINGUA PORTUGUESA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="FÍSICA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="FÍSICA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Azamor Guedes"></Teacher><Subject name="FILOSOFIA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="FÍSICA - III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Marcelo Texeira"></Teacher><Subject name="SOLOS E MEIO AMBIENTE"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Marcelo Texeira"></Teacher><Subject name="SOLOS E MEIO AMBIENTE"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="HISTÓRIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="HISTÓRIA II"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Laurine Carvalho"></Teacher><Subject name="GESTÃO E LEGISLAÇÃO AMBIENTAL III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Laurine Carvalho"></Teacher><Subject name="GESTÃO E LEGISLAÇÃO AMBIENTAL III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="QUIMICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="QUIMICA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="GEOGRAFIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="GEOGRAFIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Lucio Aderito"></Teacher><Subject name="IMPACTOS E MONIT. AMBIENTAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Lucio Aderito"></Teacher><Subject name="IMPACTOS E MONIT. AMBIENTAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="SOCIOLOGIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="4º M.AMB_M(.4.28.1M) sala-A04 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="BIOLOGIA IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="BIOLOGIA IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Laurine Carvalho"></Teacher><Subject name="TRATAMENTO DE ÁGUAS E AFLUENTES"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Laurine Carvalho"></Teacher><Subject name="TRATAMENTO DE ÁGUAS E AFLUENTES"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Eider Silva"></Teacher><Subject name="SEGURANÇA DO TRAB. MEIO AMBIENTE E SAÚDE"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Eider Silva"></Teacher><Subject name="SEGURANÇA DO TRAB. MEIO AMBIENTE E SAÚDE"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Marcelo Texeira"></Teacher><Subject name="RECUP. DE ÁREAS DEG. E FUND. DE AGROECOLOGIA"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Marcelo Texeira"></Teacher><Subject name="RECUP. DE ÁREAS DEG. E FUND. DE AGROECOLOGIA"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Azamor Guedes"></Teacher><Subject name="FILOSOFIA - IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Michele Barbosa"></Teacher><Subject name="ESPANHOL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Michele Barbosa"></Teacher><Subject name="ESPANHOL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Claudia Santos"></Teacher><Subject name="INGLÊS IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Claudia Santos"></Teacher><Subject name="INGLÊS IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Jaiana  Meneses"></Teacher><Subject name="SOCIOLOGIA IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Lucio Aderito"></Teacher><Subject name="RELATÓRIO TÉCNICO AMBIENTAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Lucio Aderito"></Teacher><Subject name="RELATÓRIO TÉCNICO AMBIENTAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Lucas Souza"></Teacher><Subject name="ONQ E EMPREENDEDORISMO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="GEOGRAFIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="GEOGRAFIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Lucas Souza"></Teacher><Subject name="ONQ E EMPREENDEDORISMO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Lucas Souza"></Teacher><Subject name="TÓPICOS EM TURISMO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Lucas Souza"></Teacher><Subject name="TÓPICOS EM TURISMO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Lucio Aderito"></Teacher><Subject name="GEOPROCESSAMENTO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Lucio Aderito"></Teacher><Subject name="GEOPROCESSAMENTO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="4º M.AMB_T(.4.28.1V) sala-A05 Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Marcelo Texeira"></Teacher><Subject name="RECUP. DE ÁREAS DEG. E FUND. DE AGROECOLOGIA"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Marcelo Texeira"></Teacher><Subject name="RECUP. DE ÁREAS DEG. E FUND. DE AGROECOLOGIA"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Eider Silva"></Teacher><Subject name="SEGURANÇA DO TRAB. MEIO AMBIENTE E SAÚDE"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Eider Silva"></Teacher><Subject name="SEGURANÇA DO TRAB. MEIO AMBIENTE E SAÚDE"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Azamor Guedes"></Teacher><Subject name="FILOSOFIA - IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="BIOLOGIA IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Viviane Moreira"></Teacher><Subject name="BIOLOGIA IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Claudia Santos"></Teacher><Subject name="INGLÊS IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Laurine Carvalho"></Teacher><Subject name="TRATAMENTO DE ÁGUAS E AFLUENTES"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Laurine Carvalho"></Teacher><Subject name="TRATAMENTO DE ÁGUAS E AFLUENTES"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Michele Barbosa"></Teacher><Subject name="ESPANHOL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Jaiana  Meneses"></Teacher><Subject name="SOCIOLOGIA IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Michele Barbosa"></Teacher><Subject name="ESPANHOL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Lucio Aderito"></Teacher><Subject name="GEOPROCESSAMENTO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Lucio Aderito"></Teacher><Subject name="GEOPROCESSAMENTO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Lucas Souza"></Teacher><Subject name="ONQ E EMPREENDEDORISMO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Lucas Souza"></Teacher><Subject name="ONQ E EMPREENDEDORISMO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Claudia Santos"></Teacher><Subject name="INGLÊS IV"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Lucas Souza"></Teacher><Subject name="TÓPICOS EM TURISMO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Lucas Souza"></Teacher><Subject name="TÓPICOS EM TURISMO"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Lucio Aderito"></Teacher><Subject name="RELATÓRIO TÉCNICO AMBIENTAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Lucio Aderito"></Teacher><Subject name="RELATÓRIO TÉCNICO AMBIENTAL"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="GEOGRAFIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="GEOGRAFIA III"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="MARCOS(.3.28.1V)-AEE Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Adriano Cattai"></Teacher><Subject name="MATEMÁTICA III"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Azamor Guedes"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Jéssica Lacerda"></Teacher><Subject name="LIBRAS"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Jéssica Lacerda"></Teacher><Subject name="LIBRAS"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="Português (Segunda Língua)"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="Português (Segunda Língua)"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Marcelo Texeira"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="Português (Segunda Língua)"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="Português (Segunda Língua)"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Lucio Aderito"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Laurine Carvalho"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Laurine Carvalho"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="JEORGE(.3.28.1V)-AEE Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Adriano Cattai"></Teacher><Subject name="MATEMÁTICA III"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Antônio Junior"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Azamor Guedes"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Jéssica Lacerda"></Teacher><Subject name="LIBRAS"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Jéssica Lacerda"></Teacher><Subject name="LIBRAS"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="Português (Segunda Língua)"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="Português (Segunda Língua)"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Marcelo Texeira"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Edinelson Santos"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Eliana Evangelista"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Pedro Ernesto"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="Português (Segunda Língua)"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Renata Silva"></Teacher><Subject name="Português (Segunda Língua)"></Subject><Activity_Tag name="AULA"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+     <Teacher name="Jeovângela Matos"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="8h20-9h10min">
+     <Teacher name="Lucio Aderito"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="9h10-10h00min">
+     <Teacher name="Laurine Carvalho"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="10h20-11h10min">
+     <Teacher name="Nivaldo Correia"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="11h10-12h00min">
+     <Teacher name="Laurine Carvalho"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-M"></Activity_Tag>
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="FRANCIANE(.1.28.1M)-AEE Subgrupo Automático">
+   <Day name="Segunda-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Joyce Helly"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Delliana Silva"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Jonathan Souza"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Isaías Reis"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Lucielton  Mascarenhas"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Tatielle Rodrigues"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+     <Teacher name="Jaiana  Meneses"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="14h10-15h00min">
+     <Teacher name="Therezinha Gauri"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="15h20-16h10min">
+     <Teacher name="Carlos Eduardo"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Rui Carigê"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+     <Teacher name="Luiz Gustavo"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+     <Teacher name="Diego Sousa"></Teacher><Subject name="Atendimento"></Subject><Activity_Tag name="ATEND-NAPNE-T"></Activity_Tag>
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+   <Day name="Sábado">
+    <Hour name="07h30-8h20min">
+
+    </Hour>
+    <Hour name="8h20-9h10min">
+
+    </Hour>
+    <Hour name="9h10-10h00min">
+
+    </Hour>
+    <Hour name="10h20-11h10min">
+
+    </Hour>
+    <Hour name="11h10-12h00min">
+
+    </Hour>
+    <Hour name="13h20-14h10min">
+
+    </Hour>
+    <Hour name="14h10-15h00min">
+
+    </Hour>
+    <Hour name="15h20-16h10min">
+
+    </Hour>
+    <Hour name="16h10-17h00min">
+
+    </Hour>
+    <Hour name="17h00-17h50min ">
+
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>
